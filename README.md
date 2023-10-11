@@ -1,2 +1,2 @@
 # Order-Summary
-Order Summary Component created to Frontent mentor using only CSS
+Order Summary Component created to Frontend mentor using only CSS
